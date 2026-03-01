@@ -1,0 +1,7 @@
+{
+  "name": "Simões Filho Weather Theme",
+  "description": "A vertical 9:16 weather application specifically for Simões Filho, Bahia, featuring dynamic weather states and slow-falling rain animations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
